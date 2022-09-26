@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "alex",
+    "struc": "bca.jpg",
+    "duration": "6 days",
+    "status": "active",
+    "statusPay": "approve"
+  },
+  {
+    "id": "2",
+    "name": "asep",
+    "struc": "BRI.jpg",
+    "duration": "1 days",
+    "status": "non active",
+    "statusPay": "cancel"
+  },
+  {
+    "id": "3",
+    "name": "ade",
+    "struc": "BNI.jpg",
+    "duration": "10 days",
+    "status": "non active",
+    "statusPay": "pending"
+  }
+]

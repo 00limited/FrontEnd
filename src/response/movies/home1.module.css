@@ -1,0 +1,29 @@
+.contain1 {
+  width: 100%;
+  background-color: rgb(14, 14, 14);
+}
+.MainH {
+  width: 100%;
+  height: 500px;
+  background: url("../../images/cc3.jpg");
+  background-size: cover;
+  margin-right: 0;
+}
+.Bdyhome {
+  position: absolute;
+  width: 422px;
+  height: 147px;
+  left: 63px;
+  top: 115px;
+  color: white;
+}
+.buttonW {
+  background-color: red;
+  border: none;
+  transition: border 0.2s ease-in-out;
+}
+.buttonW:hover {
+  border: 5px solid red;
+  background-color: red;
+  cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.formName {
+  display: flex;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+.title {
+  width: 100%;
+  padding-right: 5px;
+}
+.container {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-right: 100px;
+  padding-left: 200px;
+  color: white;
+}
+.attact {
+  width: 180px;
+}

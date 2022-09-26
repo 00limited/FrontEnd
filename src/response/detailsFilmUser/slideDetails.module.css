@@ -1,0 +1,30 @@
+.leftSlide {
+  align-items: center;
+  width: 100%;
+  margin-left: 20px;
+}
+.vdSlide {
+  width: 30%;
+  height: 100%;
+  background-color: black;
+  margin-top: 50px;
+}
+.conSlide {
+  width: 100%;
+  height: 250px;
+  padding-top: 20px;
+  background: black;
+  background-size: cover;
+  background-position: 100%;
+  object-fit: contain;
+  margin: auto;
+  color: white;
+}
+.bdySlide {
+  padding-top: 50px;
+}
+.image1 {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
