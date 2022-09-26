@@ -10,6 +10,7 @@ function HomeAdmin() {
     const response = await API.get("/categories");
     return response.data.data;
   });
+  console.log("ini cate", category);
 
   function handleChangeSelect(e) {
     e.preventDefault();
